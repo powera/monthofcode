@@ -1,0 +1,16 @@
+11) Fractal Generator
+12) Chess Applet *
+13) Basic Physics Engine (Projectiles) %
+17) Round-Robin Scheduling Generator
+19) Missile Command *
+20) Graphs
+22) Steganography +
+25) Helicopter Game
+27) People model - ***
+  Roads, RCI??
+
+Commodities - Steel, Copper, etc. down big
+Consumer Products - P&G, Coca Cola, etc. down small
+
+
+

@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteBase /month/feb18/
+
+RewriteRule ^([0-9]+)\.php single_post.php?id=$1 [ne]
