@@ -28,11 +28,11 @@ February 11 - Flash Card - Uses PHP and mySQL - Select one of the three flash ca
 
 February 12 - Word Find Generator - Uses Java - Creates a 16x16 wordfind using up to 25 words of 5 letters or greater. Words are from a corpus of over 500 words. To select a word, click on the first letter of the word, and drag to the last letter of the word. Click "New Game" to generate a new board, or "Show Solution" to view the location of all the words.
 
-February 13 - Numerical Evaluator - Uses PERL - Parses a mathematical expression containing numerical values, +-*/, and parentheses. Displays the steps taken in order to evaluate the expression, and prints the result. 
+February 13 - Numerical Evaluator - Uses PERL - Parses a mathematical expression containing numerical values, + - * /, and parentheses. Displays the steps taken in order to evaluate the expression, and prints the result. 
 
 February 14 - "Java World" - Uses Java - Block world simulator similar to the famous SHRDLU, but with more limited abilities. You can add, move, and remove objects, as well as ask some basic questions about the state of the world. Known Bug - Large objects are larger than very large objects. 
 
-February 15 - Neural Networker - Uses C - The C program can either construct a random neural network of arbitrary size or load one from a file, and conduct learning on that. This is implemented with a web interface on the specific function (x*Input1+y*Input2+1)/(2+x+y), with X and Y user inputs. The program will do up to 25000 training cycles with randomly generated inputs, with a "score" being displayed at different levels. 
+February 15 - Neural Networker - Uses C - The C program can either construct a random neural network of arbitrary size or load one from a file, and conduct learning on that. This is implemented with a web interface on the specific function (x * Input1 + y * Input2+1)/(2+x+y), with X and Y user inputs. The program will do up to 25000 training cycles with randomly generated inputs, with a "score" being displayed at different levels. [2015 note: I have no idea what this means]
 
 February 16 - Space Wars 5959 - Uses Java - A Space Invaders-type game. Shoot the ships without getting hit yourself. Try to beat your previous high score. Use left-mouse button to fire or right-mouse button to toggle auto-fire.
 
